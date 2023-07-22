@@ -1,4 +1,4 @@
-# flexblog 
+# Flexblog 
 Projeto desenvolvido no curso Flexblox da origamid
 
 
